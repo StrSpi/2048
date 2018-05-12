@@ -1,0 +1,8 @@
+﻿  GameManage.cpp
+c:\users\92892\source\repos\2048\2048\gamemanage.cpp(24): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\92892\source\repos\2048\2048\gamemanage.cpp(29): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\92892\source\repos\2048\2048\gamemanage.cpp(34): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\92892\source\repos\2048\2048\gamemanage.cpp(39): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\92892\source\repos\2048\2048\gamemanage.cpp(68): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+c:\users\92892\source\repos\2048\2048\gamemanage.cpp(74): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  2048.vcxproj -> C:\Users\92892\source\repos\2048\Debug\2048.exe
